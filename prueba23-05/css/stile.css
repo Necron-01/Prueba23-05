@@ -1,0 +1,19 @@
+.conte {
+    background-color: rgba(152, 206, 237, 0.323);
+    margin-left: 30%;
+    margin-right: 30%;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    text-align: center;
+}
+img{
+    width: 200px;
+    height: auto;
+};
+h1 {
+    color: rgb(0, 0, 0);
+}
+td {
+    size: 20px;
+}
